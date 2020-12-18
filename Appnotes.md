@@ -5,4 +5,5 @@ FT232R and FT245R](https://www.ftdichip.com/Support/Documents/AppNotes/AN_232R-0
 
 [D2XX Programmer's Guide](https://www.ftdichip.com/Support/Documents/ProgramGuides/D2XX_Programmer's_Guide(FT_000071).pdf)  
 
+Applications:  
 [Very simple CPLD trainer](https://hackaday.io/project/8754-very-simple-cpld-trainer)  
