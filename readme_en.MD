@@ -1,3 +1,6 @@
+http://zxevo-files.perestoroniny.ru/ngs/prog_cpld/README.txt
+
+
 prog_cpld : very simple USB CPLD programmer  
 Copyright (C) 2009  Koichi Nishida  
 
